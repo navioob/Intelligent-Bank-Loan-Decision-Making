@@ -1,4 +1,4 @@
-# intelligent-bank-loan-decision-making
+# Intelligent-Bank-Loan-Decision-Making
 Project has been deployed to Heroku using Streamlit in Python for visualisations of the findings and results.
 
 https://bank-loan-application-dm.herokuapp.com/
